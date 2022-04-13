@@ -372,6 +372,9 @@ section.parte2{
     right: 20px;
     box-shadow: 4px 4px 4px rgba(10,10,10,0.5);
     border: 2px solid transparent;
+    object-fit: contain;
+    width: 30px;
+    height: 30px;
 }
 .irArriba2{
     display: inherit;
